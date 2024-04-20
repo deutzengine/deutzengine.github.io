@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deutzengine.github.io//sitemap.xml
