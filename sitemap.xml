@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://deutzengine.github.io/2024/04/21/Deutz-engine-reman-TCD2013-series-Tier-3-technical-data/</loc>
+    <loc>https://deutzengine.github.io/2024/04/22/Deutz-engine-reman-Deutz-2011-series-tier3-tier4-technical-data/</loc>
     
-    <lastmod>2024-04-21</lastmod>
+    <lastmod>2024-04-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,16 @@
   <url>
     <loc>https://deutzengine.github.io/2024/04/21/Deutz-engine-reman-TCD2012-VOLVO-D6E-series-tier-3-technical-data/</loc>
     
-    <lastmod>2024-04-21</lastmod>
+    <lastmod>2024-04-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://deutzengine.github.io/2024/04/21/Deutz-engine-reman-TCD2013-series-Tier-3-technical-data/</loc>
+    
+    <lastmod>2024-04-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +49,7 @@
 
   <url>
     <loc>https://deutzengine.github.io/</loc>
-    <lastmod>2024-04-21</lastmod>
+    <lastmod>2024-04-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
